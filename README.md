@@ -16,9 +16,9 @@ Store the estimated state in a list. </br>
 ### Step 6:
 Plot the true and estimated positions.</br>
 ## Program:
-Developed by: Anusha R
+Developed by: Naveen Kumar A
 
-Register number: 212221230006
+Register number: 212221240032
 ~~~
 import numpy as np
 
